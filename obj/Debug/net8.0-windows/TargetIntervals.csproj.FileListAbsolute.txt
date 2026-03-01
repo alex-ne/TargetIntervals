@@ -1,0 +1,16 @@
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\obj\Debug\net8.0-windows\TargetIntervals.Form1.resources
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\obj\Debug\net8.0-windows\TargetIntervals.csproj.GenerateResource.cache
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\obj\Debug\net8.0-windows\TargetIntervals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\obj\Debug\net8.0-windows\TargetIntervals.AssemblyInfoInputs.cache
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\obj\Debug\net8.0-windows\TargetIntervals.AssemblyInfo.cs
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\obj\Debug\net8.0-windows\TargetIntervals.csproj.CoreCompileInputs.cache
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\bin\Debug\net8.0-windows\TargetIntervals.exe
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\bin\Debug\net8.0-windows\TargetIntervals.deps.json
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\bin\Debug\net8.0-windows\TargetIntervals.runtimeconfig.json
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\bin\Debug\net8.0-windows\TargetIntervals.dll
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\bin\Debug\net8.0-windows\TargetIntervals.pdb
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\obj\Debug\net8.0-windows\TargetIntervals.dll
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\obj\Debug\net8.0-windows\refint\TargetIntervals.dll
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\obj\Debug\net8.0-windows\TargetIntervals.pdb
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\obj\Debug\net8.0-windows\TargetIntervals.genruntimeconfig.cache
+C:\Sources\Local_Projects\260126_01 TargetInterval\TargetIntervals\obj\Debug\net8.0-windows\ref\TargetIntervals.dll

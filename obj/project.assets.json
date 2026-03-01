@@ -1,0 +1,52 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v8.0,Profile=windows": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v8.0,Profile=windows": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Alex_ne\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\C#\\2026\\02_TargetInterval\\TargetIntervals\\TargetIntervals.csproj",
+      "projectName": "TargetIntervals",
+      "projectPath": "D:\\Projects\\C#\\2026\\02_TargetInterval\\TargetIntervals\\TargetIntervals.csproj",
+      "packagesPath": "C:\\Users\\Alex_ne\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\C#\\2026\\02_TargetInterval\\TargetIntervals\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Alex_ne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net80-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net80-windows": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net80-windows": {}
+    }
+  }
+}

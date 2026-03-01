@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|c:\\sources\\local_projects\\260126_01 targetinterval\\targetintervals\\historicatparamsconteiner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|solutionrelative:historicatparamsconteiner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|c:\\sources\\local_projects\\260126_01 targetinterval\\targetintervals\\datecovering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|solutionrelative:datecovering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|c:\\sources\\local_projects\\260126_01 targetinterval\\targetintervals\\coveringmodificator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|solutionrelative:coveringmodificator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|c:\\sources\\local_projects\\260126_01 targetinterval\\targetintervals\\base\\intervalcovering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|solutionrelative:base\\intervalcovering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|c:\\sources\\local_projects\\260126_01 targetinterval\\targetintervals\\dateinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|solutionrelative:dateinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|c:\\sources\\local_projects\\260126_01 targetinterval\\targetintervals\\base\\iinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|solutionrelative:base\\iinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|c:\\sources\\local_projects\\260126_01 targetinterval\\targetintervals\\base\\metradapters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|solutionrelative:base\\metradapters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|c:\\sources\\local_projects\\260126_01 targetinterval\\targetintervals\\info.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|solutionrelative:info.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|c:\\sources\\local_projects\\260126_01 targetinterval\\targetintervals\\base\\imeasurable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|solutionrelative:base\\imeasurable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|c:\\sources\\local_projects\\260126_01 targetinterval\\targetintervals\\base\\iarithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|solutionrelative:base\\iarithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F021A257-F803-4528-B6A4-C77BCD92DFBB}|TargetIntervals.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IInterval.cs",
+              "DocumentMoniker": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\Base\\IInterval.cs",
+              "RelativeDocumentMoniker": "Base\\IInterval.cs",
+              "ToolTip": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\Base\\IInterval.cs",
+              "RelativeToolTip": "Base\\IInterval.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:39:08.144Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntervalCovering.cs",
+              "DocumentMoniker": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\Base\\IntervalCovering.cs",
+              "RelativeDocumentMoniker": "Base\\IntervalCovering.cs",
+              "ToolTip": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\Base\\IntervalCovering.cs",
+              "RelativeToolTip": "Base\\IntervalCovering.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:19:53.446Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistoricatParamsConteiner.cs",
+              "DocumentMoniker": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\HistoricatParamsConteiner.cs",
+              "RelativeDocumentMoniker": "HistoricatParamsConteiner.cs",
+              "ToolTip": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\HistoricatParamsConteiner.cs",
+              "RelativeToolTip": "HistoricatParamsConteiner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:30:29.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoveringModificator.cs",
+              "DocumentMoniker": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\CoveringModificator.cs",
+              "RelativeDocumentMoniker": "CoveringModificator.cs",
+              "ToolTip": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\CoveringModificator.cs",
+              "RelativeToolTip": "CoveringModificator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:07:27.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateCovering.cs",
+              "DocumentMoniker": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\DateCovering.cs",
+              "RelativeDocumentMoniker": "DateCovering.cs",
+              "ToolTip": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\DateCovering.cs",
+              "RelativeToolTip": "DateCovering.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:50:37.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DateInterval.cs",
+              "DocumentMoniker": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\DateInterval.cs",
+              "RelativeDocumentMoniker": "DateInterval.cs",
+              "ToolTip": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\DateInterval.cs",
+              "RelativeToolTip": "DateInterval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:32:54.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IArithmetic.cs",
+              "DocumentMoniker": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\Base\\IArithmetic.cs",
+              "RelativeDocumentMoniker": "Base\\IArithmetic.cs",
+              "ToolTip": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\Base\\IArithmetic.cs",
+              "RelativeToolTip": "Base\\IArithmetic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:30:09.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Info.tt",
+              "DocumentMoniker": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\Info.tt",
+              "RelativeDocumentMoniker": "Info.tt",
+              "ToolTip": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\Info.tt",
+              "RelativeToolTip": "Info.tt",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-30T10:13:10.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MetrAdapters.cs",
+              "DocumentMoniker": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\Base\\MetrAdapters.cs",
+              "RelativeDocumentMoniker": "Base\\MetrAdapters.cs",
+              "ToolTip": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\Base\\MetrAdapters.cs",
+              "RelativeToolTip": "Base\\MetrAdapters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:26:16.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMeasurable.cs",
+              "DocumentMoniker": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\Base\\IMeasurable.cs",
+              "RelativeDocumentMoniker": "Base\\IMeasurable.cs",
+              "ToolTip": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\Base\\IMeasurable.cs",
+              "RelativeToolTip": "Base\\IMeasurable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:03:09.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Sources\\Local_Projects\\260126_01 TargetInterval\\TargetIntervals\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:38:34.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
